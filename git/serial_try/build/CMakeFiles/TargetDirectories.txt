@@ -1,0 +1,9 @@
+/home/adc/桌面/programming/door/serial_try/build/CMakeFiles/rebuild_cache.dir
+/home/adc/桌面/programming/door/serial_try/build/CMakeFiles/edit_cache.dir
+/home/adc/桌面/programming/door/serial_try/build/CMakeFiles/main.dir
+/home/adc/桌面/programming/door/serial_try/build/serial_lib/CMakeFiles/rebuild_cache.dir
+/home/adc/桌面/programming/door/serial_try/build/serial_lib/CMakeFiles/edit_cache.dir
+/home/adc/桌面/programming/door/serial_try/build/serial_lib/CMakeFiles/serial_lib.dir
+/home/adc/桌面/programming/door/serial_try/build/camera_lib/CMakeFiles/rebuild_cache.dir
+/home/adc/桌面/programming/door/serial_try/build/camera_lib/CMakeFiles/edit_cache.dir
+/home/adc/桌面/programming/door/serial_try/build/camera_lib/CMakeFiles/camera_lib.dir

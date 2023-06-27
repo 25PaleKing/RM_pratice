@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/adc/桌面/programming/door/serial_try/build",
+  "command": "/usr/bin/c++  -DFMT_LOCALE -DPROJECT_DIR=\\\"/home/adc/桌面/programming/door/serial_try\\\" -I/home/adc/桌面/programming/door/serial_try/serial_lib -I/home/adc/桌面/programming/door/serial_try/camera_lib -isystem /usr/local/include/opencv4    -o CMakeFiles/main.dir/main.cpp.o -c /home/adc/桌面/programming/door/serial_try/main.cpp",
+  "file": "/home/adc/桌面/programming/door/serial_try/main.cpp"
+},
+{
+  "directory": "/home/adc/桌面/programming/door/serial_try/build/serial_lib",
+  "command": "/usr/bin/c++  -DPROJECT_DIR=\\\"/home/adc/桌面/programming/door/serial_try\\\" -I/home/adc/桌面/programming/door/serial_try/serial_lib -isystem /usr/local/include/opencv4    -std=gnu++11 -o CMakeFiles/serial_lib.dir/serial/serial.cpp.o -c /home/adc/桌面/programming/door/serial_try/serial_lib/serial/serial.cpp",
+  "file": "/home/adc/桌面/programming/door/serial_try/serial_lib/serial/serial.cpp"
+},
+{
+  "directory": "/home/adc/桌面/programming/door/serial_try/build/camera_lib",
+  "command": "/usr/bin/c++  -DFMT_LOCALE -DPROJECT_DIR=\\\"/home/adc/桌面/programming/door/serial_try\\\" -I/home/adc/桌面/programming/door/serial_try/serial_lib -I/home/adc/桌面/programming/door/serial_try/camera_lib -isystem /usr/local/include/opencv4    -std=gnu++11 -o CMakeFiles/camera_lib.dir/camera/camera.cpp.o -c /home/adc/桌面/programming/door/serial_try/camera_lib/camera/camera.cpp",
+  "file": "/home/adc/桌面/programming/door/serial_try/camera_lib/camera/camera.cpp"
+}
+]
