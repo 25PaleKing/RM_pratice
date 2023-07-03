@@ -1,0 +1,4 @@
+Log file created at: 2023/06/29 15:14:00
+Running on machine: adc-virtual-machine
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0629 15:14:00.495242 22934 MVCameraBase.cpp:99] Device:(name:MV-SUA133GC#0 sn:040150220543)Lost
