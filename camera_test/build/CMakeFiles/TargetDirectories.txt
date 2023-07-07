@@ -1,0 +1,9 @@
+/home/adc/桌面/programming/door/camera_test/build/CMakeFiles/rebuild_cache.dir
+/home/adc/桌面/programming/door/camera_test/build/CMakeFiles/edit_cache.dir
+/home/adc/桌面/programming/door/camera_test/build/CMakeFiles/main.dir
+/home/adc/桌面/programming/door/camera_test/build/modules/CMakeFiles/rebuild_cache.dir
+/home/adc/桌面/programming/door/camera_test/build/modules/CMakeFiles/edit_cache.dir
+/home/adc/桌面/programming/door/camera_test/build/modules/CMakeFiles/modules.dir
+/home/adc/桌面/programming/door/camera_test/build/camera_lib/CMakeFiles/rebuild_cache.dir
+/home/adc/桌面/programming/door/camera_test/build/camera_lib/CMakeFiles/edit_cache.dir
+/home/adc/桌面/programming/door/camera_test/build/camera_lib/CMakeFiles/camera_lib.dir
