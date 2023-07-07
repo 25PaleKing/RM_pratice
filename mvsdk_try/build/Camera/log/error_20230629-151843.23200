@@ -1,4 +1,0 @@
-Log file created at: 2023/06/29 15:18:43
-Running on machine: adc-virtual-machine
-Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
-E0629 15:18:43.451814 23200 MVCAMAPI.cpp:350] CameraInit Failed, err:-19,Version:2.1.0.31,FriendlyName:0˜Ökÿ,SN:
